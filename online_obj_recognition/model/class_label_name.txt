@@ -1,0 +1,5 @@
+class 1   bowl
+class 2   cap
+class 3   cereal box
+class 4   coffee mug
+class 5   soda can
